@@ -13,4 +13,9 @@ npx create-react-app boil_app
 npm start
 ```
 
-4. stop using ctrl+c
+4. stop app using ctrl+c
+
+5. installing bootstrap for styling
+```
+npm install bootstrap --save
+```
